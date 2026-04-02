@@ -30,8 +30,7 @@ The **University Management & Social System** is a C++ console application that 
 The project bridges the gap between theoretical DSA concepts and practical software design by integrating multiple data structures into one cohesive system — all without a database or GUI framework.
 
 > **Course:** Data Structures Lab (15B17CI371) — B.Tech III Semester  
-> **Institution:** Jaypee Institute of Information Technology, Noida  
-> **Team:** Abhinav Garg (992401030078), Samridhi (992401030076) — Batch F-11  
+> **Institution:** Jaypee Institute of Information Technology, Noida    
 > **Supervisor:** Mr. Mohit Singh, Dept. of CSE, JIIT
 
 ---
@@ -279,5 +278,3 @@ Both students are auto-enrolled in all 3 courses.
 5. JIIT DSA Lab Manual (15B17CI371)
 
 ---
-
-*Built with ❤️ at JIIT Noida · Data Structures Lab · B.Tech CSE Semester III · Batch F-11*
